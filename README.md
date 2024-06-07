@@ -4,6 +4,8 @@
 
 This report details the findings from a network forensics analysis conducted to investigate a malware infection on a Windows computer. The analysis was performed using packet capture files, and the results include identifying key events, the nature of the malware, and indicators of compromise.
 
+[Files Included in Repository]
+
 ## Analysis and Findings
 
 ### 1. Date and Time of Infection
